@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/HassaanHameed/dogetokenarmy.git/static/css/main.30a4a997.chunk.css",
+    "main.js": "/HassaanHameed/dogetokenarmy.git/static/js/main.720e606f.chunk.js",
+    "main.js.map": "/HassaanHameed/dogetokenarmy.git/static/js/main.720e606f.chunk.js.map",
+    "runtime-main.js": "/HassaanHameed/dogetokenarmy.git/static/js/runtime-main.a46bd03a.js",
+    "runtime-main.js.map": "/HassaanHameed/dogetokenarmy.git/static/js/runtime-main.a46bd03a.js.map",
+    "static/js/2.ddf91ebc.chunk.js": "/HassaanHameed/dogetokenarmy.git/static/js/2.ddf91ebc.chunk.js",
+    "static/js/2.ddf91ebc.chunk.js.map": "/HassaanHameed/dogetokenarmy.git/static/js/2.ddf91ebc.chunk.js.map",
+    "index.html": "/HassaanHameed/dogetokenarmy.git/index.html",
+    "static/css/main.30a4a997.chunk.css.map": "/HassaanHameed/dogetokenarmy.git/static/css/main.30a4a997.chunk.css.map",
+    "static/js/2.ddf91ebc.chunk.js.LICENSE.txt": "/HassaanHameed/dogetokenarmy.git/static/js/2.ddf91ebc.chunk.js.LICENSE.txt",
+    "static/media/TOKENOMICS.a5981ee5.png": "/HassaanHameed/dogetokenarmy.git/static/media/TOKENOMICS.a5981ee5.png",
+    "static/media/doglogo.b4597689.svg": "/HassaanHameed/dogetokenarmy.git/static/media/doglogo.b4597689.svg",
+    "static/media/headerbackground.039176cd.png": "/HassaanHameed/dogetokenarmy.git/static/media/headerbackground.039176cd.png",
+    "static/media/line1.7c1e2782.png": "/HassaanHameed/dogetokenarmy.git/static/media/line1.7c1e2782.png",
+    "static/media/telegramicon.25e3abfb.svg": "/HassaanHameed/dogetokenarmy.git/static/media/telegramicon.25e3abfb.svg",
+    "static/media/tokendistribution.87e3ead5.png": "/HassaanHameed/dogetokenarmy.git/static/media/tokendistribution.87e3ead5.png",
+    "static/media/twittericon.7b237766.svg": "/HassaanHameed/dogetokenarmy.git/static/media/twittericon.7b237766.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a46bd03a.js",
+    "static/js/2.ddf91ebc.chunk.js",
+    "static/css/main.30a4a997.chunk.css",
+    "static/js/main.720e606f.chunk.js"
+  ]
+}
