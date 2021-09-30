@@ -40,6 +40,7 @@ import { PieChart } from "react-minimal-pie-chart";
 import playbtn from "./img/body1/playbtn.png";
 import pdfdog from "./img/body1/pdfdog.png";
 import line1 from "./img/body1/line1.png";
+import "./App.css";
 const menuFontDefaultStyle = {
   fontSize: "14px",
   fontWeight: "500",
